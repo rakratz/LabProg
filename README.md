@@ -13,9 +13,9 @@ Turma A03 – das 07:15 às 08:45 e das 10:45 às 12:15
 ## 📂 Estrutura do Repositório
 
 ```bash
-📁 aulas/               # Slides e materiais teóricos
-📁 exemplos/            # Exemplos de código vistos em sala
-📁 desafios/            # Atividades práticas e listas de exercícios
-📁 projetos/            # Mini-projetos e tarefas avaliativas
-📁 arquivos/            # Scripts com leitura/escrita em arquivos
+📁 Aulas/               # Slides e materiais teóricos
+📁 Exemplos/            # Exemplos de código vistos em sala
+📁 Desafios/            # Atividades práticas e listas de exercícios
+📁 Projetos/            # Mini-projetos e tarefas avaliativas
+📁 Arquivos/            # Scripts com leitura/escrita em arquivos
 README.md              # Descrição da disciplina

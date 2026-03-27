@@ -1,0 +1,33 @@
+#Variáveis Globais e Locais
+
+## Variável Local
+É aquela declarada dento da função. Ela só existe dentro dessa função e não pode ser usada fora
+
+#include <stdio.h>
+
+void exemplo() {
+    int x = 10; // variável local
+    printf("Valor de x: %d\n", x);
+}
+
+int main() {
+    exemplo();
+    return 0;
+}
+
+## Variável Global
+Uma várialel globar que é declarada fora de todas as funções
+Ela pode ser acessada e alterada por quqlquer função do programa
+
+#include <stdio.h>
+int x = 10; // variável global
+
+void exemplo() {
+
+    printf("Valor de x: %d\n", x);
+}
+
+int main() {
+    exemplo();
+    return 0;
+}

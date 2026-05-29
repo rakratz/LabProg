@@ -1,0 +1,12 @@
+RELATORIO FINAL DE MEDIAS
+
+Nome: Maria Nota_1: 8.90 Nota_2: 5.60 Media: 6.92 - Aprovado
+Nome: Joao Nota_1: 5.00 Nota_2: 6.00 Media: 5.60 - Recuperação
+Nome: Ana Nota_1: 9.00 Nota_2: 8.50 Media: 8.70 - Aprovado
+Nome: Carlos Nota_1: 4.00 Nota_2: 3.50 Media: 3.70 - Reprovado
+Nome: Fernanda Nota_1: 6.50 Nota_2: 7.00 Media: 6.80 - Aprovado
+
+Quantidade de alunos lidos: 5
+Media geral da turma: 6.34
+Maior media da turma: 8.70
+Menor media da turma: 3.70

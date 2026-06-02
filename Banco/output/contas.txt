@@ -1,0 +1,5 @@
+1001;Joao Silva;1500.50
+1002;Maria Souza;2300.00
+1003;Pedro Santos;875.25
+1004;Carlos Pereira;500.00
+1005;Ricardo Kratz;2100.00
